@@ -1,8 +1,5 @@
 # Final Report: Java Assignment Checker Using GitHub Classroom
 
-![Project Workflow Diagram](./images/workflow-diagram.png)  
-*High-level overview of the assignment checking process*
-
 ## 1. Java Concepts and Tools Used
 
 ### Gradle as Build System
