@@ -34,7 +34,7 @@ Each assignment included **JUnit 5.8** test cases to automatically verify correc
 - ⚡ Faster test execution and better integration with IntelliJ IDEA and Gradle
 
 ### Writing Test Cases in IntelliJ IDEA
-We encouraged students to write and run tests in **IntelliJ IDEA**:
+We encouraged students to run tests in **IntelliJ IDEA** to solve problem firstly locally:
 
 ![IntelliJ Test Interface](./images/intellij-test-interface.png)  
 *IntelliJ's built-in test runner with visual results*
@@ -136,3 +136,9 @@ Key features:
 8. **Verify on GitHub**
    - Go to your GitHub repository.
    - Confirm that all your files and recent commits have been uploaded.
+
+**CONCLUSION**
+
+   This Java Assignment Checker system successfully combines the power of Gradle for automated builds, JUnit 5 for comprehensive testing, and GitHub Classroom for streamlined assignment management, creating an efficient end-to-end solution for programming education. By implementing this workflow, instructors gain a scalable grading system with consistent evaluation criteria, while students benefit from immediate feedback and hands-on experience with professional development tools. The integration with IntelliJ IDEA further bridges classroom learning with industry practices, teaching essential skills like version control, test-driven development, and build automation. This approach not only reduces manual grading effort but also elevates the learning experience by emphasizing code quality, problem-solving, and real-world software engineering practices from the very beginning of a programmer's journey. Future enhancements could include automated score reporting, plagiarism detection, and more sophisticated feedback mechanisms through GitHub's API.
+
+
